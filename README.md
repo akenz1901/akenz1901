@@ -11,9 +11,9 @@ using Python, Java, Django, Flask and Spring Framework.
 -  You can sponsor me 🤜🏻🤛🏻
 - 💬 Ask me about Software Design, Software Architecture and Business related questions.
 # 📫 How to reach me:
-- Web: [akenz.me][1]
-- - LinkedIn: [linkedin.com/in/akinsanya-michael][2]
-- - Twitter: [twitter.com/akenz1901][3]
+- Web: [akenz.me]
+- - LinkedIn: [linkedin.com/in/akinsanya-michael]
+- - Twitter: [twitter.com/akenz1901]
 
 - 😄 Pronouns: Hi/Him
 - ⚡ Fun fact: I'm so playful
