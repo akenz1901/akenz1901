@@ -1,5 +1,5 @@
 ![akenz](https://res.cloudinary.com/akenz-enterprise/image/upload/v1635410739/my_image_w8v7sz.jpg)
-##Hi Friend 👋🏻
+## Hi Friend 👋🏻
 
 I'm Akenz, I'm a Software Engineer from Lagos, Nigeria.
 I am interested in, write about, and develop (open source) software solutions
