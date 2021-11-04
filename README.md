@@ -5,7 +5,7 @@
 ## Hi Friend 👋🏻
 
 I'm Akenz, I'm a Software Engineer from Lagos, Nigeria.
-I am interested in, write about, and develop (open source) software solutions
+I am interested in, Article write-up , and develop (open source) software solutions
 using Python, Java, Django, Flask and Spring Framework.
 
 - 🔭 I’m currently working on myself and Nigeria
