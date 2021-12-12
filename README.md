@@ -9,7 +9,7 @@ I am interested in, Article write-up , and develop (open source) software soluti
 using Python, Java, Django, Flask and Spring Framework.
 
 - 🔭 I’m currently working on myself and Nigeria
-- 🌱 I’m currently learning Web Development, MVC and Pen-Testing.
+- 🌱 I’m currently learning Web Development, MVC, Data Science and Pen-Testing.
 - 👯 I’m looking to collaborate on Django or Spring Boot project
 -  You can sponsor me 🤜🏻🤛🏻
 - 💬 Ask me about Software Design, Software Architecture and Business related questions.
