@@ -5,12 +5,12 @@
 ## Hi Friend 👋🏻
 
 I'm Akenz, I'm a Software Engineer from Lagos, Nigeria.
-I am interested in, Article write-up , and develop (open source) software solutions
-using Python, Java, Django, Flask and Spring Framework.
+I am interested in, Industrial Robotics, Article write-up , and develop (open source) software solutions
+using Python, Java, Django, Spring Boot and Flask.
 
 - 🔭 I’m currently working on myself and Nigeria
-- 🌱 I’m currently learning Web Development, MVC, Data Science and Pen-Testing.
-- 👯 I’m looking to collaborate on Django or Spring Boot project
+- 🌱 I’m currently learning the right path in life to take the step.
+- 👯 I’m looking to collaborate on Django or Spring Boot project cause problem analysis and solution design is my meal.
 -  You can sponsor me 🤜🏻🤛🏻
 - 💬 Ask me about Software Design, Software Architecture and Business related questions.
 # 📫 How to reach me:
