@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/akenz-enterprise/image/upload/v1635410739/my_image_w8v7sz.jpg" height="500"/>
+<img src="https://res.cloudinary.com/akenz-enterprise/image/upload/v1635410739/my_image_w8v7sz.jpg" height="100"/>
 
 <!-- width="400" height="500"  align-items="center" -->
 [![spring](https://img.shields.io/badge/Spring-boot-orange)](https://github.com/akenz1901)
@@ -16,7 +16,7 @@ using Python, Java, Django, Spring Boot and Flask.
 -  You can sponsor me 🤜🏻🤛🏻
 - 💬 Ask me about Software Design, Software Architecture and Business related questions.
 # 📫 How to reach me:
-- Web: [Link to my web](akenz.me)
+- web: [Link to my web](https://e-app-shop.herokuapp.com)
 - - LinkedIn: [Linked In link](https://www.linkedin.com/in/akinsanya-m-0585661ab)
 - - Twitter: [Twitter Link](twitter.com/akenz1901)
 
